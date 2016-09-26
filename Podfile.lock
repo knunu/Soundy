@@ -1,0 +1,18 @@
+PODS:
+  - CVCalendar (1.4.0)
+  - DLRadioButton (1.4.9)
+  - Gifu (1.2.1)
+
+DEPENDENCIES:
+  - CVCalendar (~> 1.4.0)
+  - DLRadioButton (~> 1.4)
+  - Gifu
+
+SPEC CHECKSUMS:
+  CVCalendar: ec1a06a508f99d8e5067258754f811a8a1433a3f
+  DLRadioButton: 7bb8a6e3768b572469ace553391ab4d2af6f9c19
+  Gifu: 0eab1ca24a4adbd949338bcb71a8556748cb2d28
+
+PODFILE CHECKSUM: 0b5014d615ccbce2455237443dbc2885d01ed575
+
+COCOAPODS: 1.1.0.rc.2
